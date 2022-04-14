@@ -1,0 +1,17 @@
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\Users\owner\Documents\KennyProjects\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.pdb

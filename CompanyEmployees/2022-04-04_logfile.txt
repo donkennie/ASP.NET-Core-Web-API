@@ -1,0 +1,14 @@
+2022-04-04 03:27:39.5254 INFO Here is info message from our values controller.
+2022-04-04 03:27:39.5802 DEBUG Here is debug message from our values controller.
+2022-04-04 03:27:39.5802 WARN Here is warn message from our values controller.
+2022-04-04 03:27:39.5870 ERROR Here is an error message from our values controller.
+2022-04-04 03:35:05.7923 INFO Here is info message from our values controller.
+2022-04-04 03:35:05.8590 DEBUG Here is debug message from our values controller.
+2022-04-04 03:35:05.8720 WARN Here is warn message from our values controller.
+2022-04-04 03:35:05.8720 ERROR Here is an error message from our values controller.
+2022-04-04 04:48:33.2080 INFO Company with id: 3d490a70-94ce-4d15-9494-5248280c2ce2 doesn't exist in the database.
+2022-04-04 04:49:37.8562 INFO Company with id: 3d490a70-94ce-4d15-9494-5248280c2ce2 doesn't exist in the database.
+2022-04-04 10:37:23.1194 INFO Company with id: 00000000-0000-0000-0000-000000000000 doesn't exist in the database.
+2022-04-04 10:52:42.7272 INFO Company with id: c9d4c053-49b6-410c-bc78-2d54a9991873 doesn't exist in the database.
+2022-04-04 11:22:40.8057 INFO Company with id: c9d4c053-49b6-410c-bc78-2d54a9991873 doesn't exist in the database.
+2022-04-04 13:10:10.2362 INFO Employee with id: 86dba8c0-d178-41e7-938c-ed49778fb52c doesn't exist in the database.
