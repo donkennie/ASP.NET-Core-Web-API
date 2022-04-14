@@ -1,0 +1,12 @@
+logs/
+companyEmployees/Migration
+companyEmployees/bin
+companyEmployees/obj
+contracts/bin
+contracts/obj
+Entities/bin
+Entities/obj
+Repository/obj
+Repository/bin
+LoggerService/obj
+LoggerService/bin
